@@ -2,7 +2,8 @@
     elements without changing the original code. I can also be used to manipulate
     the page and make screen actions happen.
 
-2:  An event is an action that happens from something activating on the screen.
+2:  An event is an action that can activate an event listener like a mouse press
+    or a key board press.
 
 3:  An event listener is an method that is looking for an action to happen like
     click or scroll.
@@ -10,5 +11,5 @@
 4:  You would switch a NodeList to an Array so you can access elements much easier
     and make elements more code efficient.
 
-5:  A component is anything that can be seen on the screen like buttons, headers,
-    and anchors.
+5:  A component is composed of HTML, CSS, and JavaScript. They are each used in
+    different ways but all three can be used for 1 object.
