@@ -1,14 +1,14 @@
-1:  DOM is a way to select and view multiple elements while not messing up any of
-    the other code in html and css.
+1:  DOM is a way for html to be presented in object form. It can be used to change
+    elements without changing the original code. I can also be used to manipulate
+    the page and make screen actions happen.
 
-2:  An event is an action that happens from something activating on the screen
-    such as a click or on load.
+2:  An event is an action that happens from something activating on the screen.
 
-3:  An event listener is an event that is looking for an action to happen like
+3:  An event listener is an method that is looking for an action to happen like
     click or scroll.
 
 4:  You would switch a NodeList to an Array so you can access elements much easier
-    and more code efficient.
+    and make elements more code efficient.
 
-5:  a component is anything that can be seen on the screen like buttons, headers,
+5:  A component is anything that can be seen on the screen like buttons, headers,
     and anchors.
